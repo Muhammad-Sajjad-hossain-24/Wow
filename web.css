@@ -1,0 +1,55 @@
+*{
+padding: 10px 10px;    
+
+}
+
+.nev img{
+    width: 150px;
+    height: 90px;
+}
+.bss{
+background: url(img/bg-1.png) no-repeat  center / 5% , url(img/bg-2.png) no-repeat left bottom / 10%;
+
+}
+
+.nev a{
+    color: black;
+    font-size: 20px;
+  
+}
+.buy-now{
+    border: none;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 20px;
+    
+}
+.card-body h5{
+    font-size: 26px;
+}
+.text >p{
+   color: goldenrod;
+    
+}
+.card {
+    border: none;
+    box-shadow: 2px 1px 10px rgb(175, 145, 145);
+    border-radius: 20px;
+    
+}
+.text-ss h1{
+    text-align: center;
+    border-bottom: 10px solid yellow;
+  margin-left: 360px;
+  margin-right: 360px;
+  border-radius: 5px 5px 5px 5px;
+
+
+}
+.se{
+    padding: 60px 40px;
+    border-radius: 10px;
+
+  
+}
